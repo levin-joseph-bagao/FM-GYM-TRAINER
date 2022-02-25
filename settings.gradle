@@ -8,3 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FM GYM TRAINER"
 include ':app'
+include ':commonlib'
+include ':mobilertc'
