@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104226759871",
+    "project_id": "fm-gym-trainer-45779",
+    "storage_bucket": "fm-gym-trainer-45779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104226759871:android:3ec24b470c943a5705d20a",
+        "android_client_info": {
+          "package_name": "com.example.fmgymtrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104226759871-q9h16fmb2prcljcbs6l3si4f1j3un23e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0UqJIpenTkqJl6DdbUG6YSUUh9FnXbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104226759871-q9h16fmb2prcljcbs6l3si4f1j3un23e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

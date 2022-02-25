@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/drawable-v24/border.xml" value="0.1985" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/drawable-v24/button.xml" value="0.1985" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/drawable-v24/ic_action_edit.xml" value="0.1985" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/drawable-v24/ic_baseline_add_circle_24.xml" value="0.1985" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/drawable-v24/ic_logout_svgrepo_com.xml" value="0.1985" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.3104166666666667" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_chat.xml" value="0.2942708333333333" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_form.xml" value="0.25" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_login.xml" value="0.2942708333333333" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_register_page2.xml" value="0.2942708333333333" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_register_page_1.xml" value="0.2942708333333333" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_trainee_dashboard.xml" value="0.25" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_trainee_edit_profile.xml" value="0.24155622060709706" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_trainee_profile.xml" value="0.24155622060709706" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_trainer_dashboard.xml" value="0.24155622060709706" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_trainer_edit_profile.xml" value="0.24155622060709706" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_trainer_list.xml" value="0.24155622060709706" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/layout/activity_waiting_join.xml" value="0.28072916666666664" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/menu/menu_search.xml" value="0.2942708333333333" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1985" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo.xml" value="0.1985" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/mipmap-anydpi-v26/ic_launcher_logo_round.xml" value="0.1985" />
+        <entry key="..\:/2nd Year Files/Major Subject/Find My Gym Trainer App/FMGYMTRAINERS/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1985" />
+        <entry key="..\:/2nd Year Files/Major Subject/Text Editor/FMGYMTRAINER/app/src/main/res/drawable-v24/ic_baseline_arrow_drop_down_24.xml" value="0.30564102564102563" />
+        <entry key="..\:/2nd Year Files/Major Subject/Text Editor/FMGYMTRAINER/app/src/main/res/drawable-v24/text_color.xml" value="0.3104166666666667" />
+        <entry key="..\:/2nd Year Files/Major Subject/Text Editor/FMGYMTRAINER/app/src/main/res/layout/activity_main.xml" value="0.2764102564102564" />
+        <entry key="..\:/2nd Year Files/Major Subject/Text Editor/FMGYMTRAINER/app/src/main/res/layout/activity_register.xml" value="0.28974358974358977" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
